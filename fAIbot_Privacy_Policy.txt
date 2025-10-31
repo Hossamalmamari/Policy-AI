@@ -1,0 +1,47 @@
+Privacy Policy for fAIbot
+Last updated: October 31, 2025
+
+1. Introduction
+Welcome to fAIbot.
+We value your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and share information when you use our customer support chat services integrated with Meta platforms (such as Facebook and Instagram).
+
+2. Information We Collect
+We collect only limited information necessary to provide and improve our services, including:
+- Basic profile information such as your name, username, and profile picture (only if permission is granted through Meta).
+- Messages and interactions you send through our chatbot, which are processed to respond and assist you.
+- Technical data, such as timestamps or message delivery status, to ensure proper functionality of the service.
+
+We do not collect passwords, payment data, or any sensitive personal information.
+
+3. How We Use the Information
+Your data is used strictly for service-related purposes, including:
+- Delivering customer support responses through the chat system.
+- Improving our chatbot’s performance and accuracy.
+- Ensuring security, preventing misuse, and maintaining service reliability.
+
+We never sell or share your personal information with third parties for marketing or advertising purposes.
+
+4. Data Sharing and Disclosure
+Your information may be shared only with:
+- Meta Platforms (Facebook, Instagram APIs) for message delivery and authentication.
+- Trusted service providers (e.g., hosting or analytics providers) that help us operate the service securely.
+
+All third parties are bound by confidentiality and data protection agreements.
+
+5. Data Security
+We use appropriate technical and organizational measures to safeguard your data against unauthorized access, alteration, or destruction.
+
+6. User Rights
+As a user, you have the right to:
+- Access or request deletion of your data.
+- Revoke permissions granted to the fAIbot application at any time from your Meta account settings.
+
+7. Data Retention
+We retain collected data only for as long as it is necessary to fulfill the purposes outlined in this Privacy Policy or as required by law.
+
+8. Updates to This Policy
+We may update this Privacy Policy periodically. Any updates will be published on this page with a revised “Last updated” date.
+
+9. Contact Us
+If you have any questions about this Privacy Policy or how your data is handled, please contact us at:
+[aiapproachclub.com]
